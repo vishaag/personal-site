@@ -21,7 +21,7 @@ welcome-message:
   Hey there! 👋 I hope you find my content interesting and worth your time!
   If you did, I'm always up for collabs or coffee ☕! 
   Currently situated in SG 🇸🇬
-baseurl: "/personal-site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vishaag
 github_username:  vishaag
