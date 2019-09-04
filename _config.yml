@@ -18,8 +18,8 @@ email: vishaag@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Development Blog
 welcome-message: 
-  Hey there! 👋 I hope you find my content interesting and worth your time!
-  If you did, I'm always up for collabs or coffee ☕! 
+  Hey there! 👋 I'm just starting out my Personal/Software Dev Blog!
+  Look out for some interesting content in the coming weeks.
   Currently situated in SG 🇸🇬
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
