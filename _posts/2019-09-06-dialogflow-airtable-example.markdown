@@ -3,6 +3,8 @@ layout: post
 title:  "Using Airtable with Dialogflow to build a chatbot"
 date:   2019-09-06 11:00:00 +0800
 categories: [dialogflow, airtable, chatbot, glitch]
+comments: true
+
 ---
 ## Dialogflow-Airtable Example
 An example to demonstrate how you can use Airtable as the database for a dialogflow chatbot. The example chatbot can respond with the different Attractions available in Changi Airport based on the location. 
@@ -130,3 +132,27 @@ tag the ```airport-location``` entity if you want to filter based on location.
 * [Airtable](https://airtable.com) - Airtable website
 * [Dialogflow](https://dialogflow.com) - Dialogflow website
 * [SIA Assist Chatbot Link](https://github.com/vishaag/siaAssist) - Airport Assistant bot built by me and my team for cognitive systems class project. [Glitch Link](https://glitch.com/edit/#!/sia-assist)
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://http-vishaag-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
+                            
