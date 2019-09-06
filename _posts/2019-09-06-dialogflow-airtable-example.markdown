@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Airtable with Dialogflow to build a chatbot"
 date:   2019-09-06 11:00:00 +0800
-categories: personal
+categories: [dialogflow, airtable, chatbot, glitch]
 ---
 ## Dialogflow-Airtable Example
 An example to demonstrate how you can use Airtable as the database for a dialogflow chatbot. The example chatbot can respond with the different Attractions available in Changi Airport based on the location. 
