@@ -81,7 +81,7 @@ A better option would be to deploy it on a real live server. One of the easiest 
 deploying it on glitch.  
 * Make an account or login to [glitch](http://glitch.me)  
 *  Go to [this glitch link](https://glitch.com/edit/#!/gaudy-coral) and click on ```Remix to edit``` so that you can clone this project to your account  
-* Follow the install section of this document and paste the API keys in the .env file in glitch. Note that the .env file is already present in glitch by default and you don't need to create a new one.
+* Follow the Initial Setup section of this document and paste the API keys in the .env file in glitch. Note that the .env file is already present in glitch by default and you don't need to create a new one.
 
 #### 2️⃣ Step 2
 __Copy Webhook URL__  
