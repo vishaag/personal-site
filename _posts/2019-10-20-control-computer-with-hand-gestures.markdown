@@ -54,7 +54,7 @@ The data is now ready to be passed on to the machine model to classify!
 
 #### The Machine Learning Model
 
-After receiving the new gesture sensor values, we derive new features from the 6 features we currently have. To be precise, we derive 36 new values for each row in the sensor data.
+After receiving the new gesture sensor values, we derive new features from the 6 features we currently have. To be precise, we derive 36 new features from the sensor data.
 The following is the code which helps do this - 
 
 ```
